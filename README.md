@@ -33,3 +33,5 @@ Este proyecto consiste en la construcción y programación de un robot móvil in
 4. Conecta tu placa Arduino al computador mediante el cable USB.
 5. Sube el código a la placa.
 6. Desconecta el cable USB, enciende el portapilas y observa a tu Wall-E explorar su entorno.
+
+## Fecha de presentación: Jueves, 02 de Julio
