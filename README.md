@@ -37,3 +37,5 @@ Este proyecto consiste en la construcción y programación de un robot móvil in
 ## Fecha de presentación: Jueves, 02 de Julio
 
 ## Decidimos Cambiar el Proyecto por un juego con arduino nano
+
+## Portafolio Grupal
