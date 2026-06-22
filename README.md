@@ -35,3 +35,5 @@ Este proyecto consiste en la construcción y programación de un robot móvil in
 6. Desconecta el cable USB, enciende el portapilas y observa a tu Wall-E explorar su entorno.
 
 ## Fecha de presentación: Jueves, 02 de Julio
+
+## Decidimos Cambiar el Proyecto por un juego con arduino nano
